@@ -1,7 +1,7 @@
 # 小象聊天室
 
 <p align="center">
-  <img src="https://cdn.smallelephant.ccwu.cc/logo.jpg" alt="小象" width="120" height="120">
+  <img src="https://cdn.smallelephant.de5.net/logo.jpg" alt="小象" width="120" height="120">
 </p>
 
 <p align="center">一个基于 PHP + JSON 文件存储的轻量级网页聊天室</p>

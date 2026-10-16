@@ -162,7 +162,7 @@ $usersFile = 'users.json';
 页面中 Logo 使用 CDN 图片：
 
 ```html
-<img src="https://cdn.smallelephant.ccwu.cc/logo.jpg" alt="小象">
+<img src="https://icc.gt.tc/xiaoxiangimage/logo.jpg" alt="小象">
 ```
 
 如需完全离线部署，可下载到本地并替换为：
